@@ -133,3 +133,5 @@ File tersebut secara default berada di home direktori, jika kita login sebagai r
 Lalu kita bisa download file tersebut dan pindahkan ke perangkat yang akan kita hubungkan ke OpenVPN Server. Untuk detail cara menghubungkan perangkat mobile, komputer atau laptop ke OpenVPN Server yang telah dikonfigurasi bisa akses ke halaman berikut, klik disini.
 
 Demikian artikel mengenai cara config OpenVPN Server di VPS Ubuntu, semoga dapat bermanfaat. Terima kasih 😀
+
+source : https://www.rumahweb.com/journal/config-openvpn-server-ubuntu/
